@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/btcnyc_logo.jpeg" alt="The Bitcoin Network NYC" width="140" height="140" style="border-radius:50%;">
+  <img src="../assets/btcnyc_logo.png" alt="The Bitcoin Network NYC" width="140" height="140" style="border-radius:50%;">
 </p>
 
 <h1 align="center">🗽 The Bitcoin Network NYC</h1>

@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="../assets/btcnyc_logo.png" alt="The Bitcoin Network NYC" width="140" height="140" style="border-radius:50%;">
+  <img src="../assets/Freedom_Lab_NYC_logo.png" alt="Freedom Lab NYC" width="140" height="140" style="border-radius:50%;">
 </p>
 
-<h1 align="center">🗽 The Bitcoin Network NYC</h1>
+<h1 align="center">Freedom Lab NYC</h1>
 
 <p align="center">
-  <b>Hosting Bitcoin workshops and community events in New York City.</b><br>
+  <b>New York City's premier Freedom Tech community space and educational center. 🗽</b><br>
   <i>Learn. Build. Connect. Empower.</i>
 </p>
 
@@ -13,13 +13,14 @@
 
 ### 🌐 Websites
 - [Main Site](https://btcnyc.github.io)
-- [Classes Hub](https://btcnyc.github.io/classes/)
+- [Classes & Guides](https://btcnyc.github.io/classes/)
+- [GitHub](https://github.com/btcnyc)
 
 ---
 
 ### 💸 Donate
 - [BTC Pay Server](https://bitcoin-network-nyc.com/)
-- [Venmo (@harrisonfriedes)](https://account.venmo.com/u/harrisonfriedes)
+- [Venmo](https://account.venmo.com/u/harrisonfriedes)
 
 ---
 
@@ -30,16 +31,15 @@
 ---
 
 ### 🌐 Digital Platforms
-- [X (Twitter)](https://x.com/BTCNetworkNYC)
 - [Telegram](https://t.me/+M79B-75J2YU3OTRh)
+- [X (Twitter)](https://x.com/BTCNetworkNYC)
 - [LinkedIn](https://www.linkedin.com/company/the-bitcoin-network-nyc/)
 - [Nostr](https://njump.me/npub1xyu3s3zt3v44l3rj5gn90xk33n387sgtjepcvxnqvd5rt58fpzzsx0055n)
 
 ---
 
 ### 🧭 About
-Our mission is to grow Bitcoin literacy and self-sovereignty in NYC.  
-We host hands-on workshops, technical deep dives, and community events designed to help people learn, build, and connect around Bitcoin.
+Our mission is to grow Freedom Tech and self-sovereignty in NYC through hands-on workshops, technical deep dives, and community events that help people learn, build, and connect.
 
 ---
 

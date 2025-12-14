@@ -12,7 +12,7 @@
 ---
 
 ### 🌐 Websites
-- [Main Site](https://btcnyc.github.io)
+- [Main Site](https://freedomlab.nyc)
 - [Classes & Guides](https://btcnyc.github.io/classes/)
 - [GitHub](https://github.com/btcnyc)
 
